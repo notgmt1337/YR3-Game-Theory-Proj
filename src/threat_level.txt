@@ -1,1 +1,19 @@
 
+Extreme level threats:
+
+Bazelgeuse -> 8
+Deviljho -> 9
+Narcacuga -> 6
+Glavenous -> 5
+Tigrex -> 7
+
+
+High Level Threats:
+Great Jargas -> 0
+Anjanath   -> 3
+Kulu-Yaku -> 1
+Pukei-Pukei -> 2
+
+
+Low level threats:
+Rest
